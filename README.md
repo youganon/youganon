@@ -1,4 +1,6 @@
 ### Hi there 👋
+I primarily use Codeberg (https://codeberg.org/youganon). You can find my original projects there.
+I use Github to check out and collaborate on other projects.
 
 <!--
 **youganon/youganon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
